@@ -39,12 +39,19 @@ This repo uses a [state of the union transcript](https://github.com/imartinez/pr
 
 ## Instructions for ingesting your own dataset
 
+(The provided documents are vaguely organized using the following Dewey Decimal System)--
+000 General Knowledge: Encyclopedias, general reference works, computers, newspapers, magazines.
+100 Philosophy and Psychology: Optical illusions, brain research, question and answer books.
+200 Religion and Mythology: Bible stories, religions of the world, Greek myths.
+300 Social Science and Folklore: Communication, education, law, sociology, transportation, etiquette, folklore, and fairy tales.
+400 Language: Grammar books, sign language, dictionaries, and picture books in many languages.
+500 Math and Science: Experiments, mathematics, astronomy, chemistry, physics, geology, biology, dinosaurs, and books on specific animals.
+600 Medicine and Technology: Human body, medicine, airplanes, space travel, cookbooks, and domesticated animals such as dogs, cats, horses.
+700 Arts and Recreation: Art, artists, how-to-draw books, crafts, origami, music, joke and riddle books, sports.
+800 Literature: Poetry, plays, and classic literature.
+900 Geography and History: History, geography and travel, atlases, explorers, and biographies.
+
 Put any and all your files into the `source_documents` directory
-
-(The provided documents are vaguely organized using the Dewey Decimal System)
-![deweydecimalsystem](https://github.com/Ravenclaw1/Lumina-System/assets/63686003/e5a2ef4f-b845-4d3a-af28-47189bd2fb71)
-
-The supported extensions are:
 
    - `.csv`: CSV,
    - `.docx`: Word Document,
