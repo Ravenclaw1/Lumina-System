@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "privategpt"
+name = "Lumina System"
 version = "0.1.0"
 description = ""
-authors = ["Ivan Martinez <ivanmartit@gmail.com>"]
+authors = ["Nova Deltar <lostsupernova13@gmail.com>"]
 license = "Apache Version 2.0"
 readme = "README.md"
 
