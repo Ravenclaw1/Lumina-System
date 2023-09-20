@@ -62,7 +62,7 @@ def main():
         # Print the result
         print("\n\n> Question:")
         print(query)
-        print(f"\n> Answer (took {round(end - start, 2)} s.):")
+        print(f"\n> Kiran: (took {round(end - start, 2)} s.):")
         print(answer)
 
         # Print the relevant sources used for the answer
