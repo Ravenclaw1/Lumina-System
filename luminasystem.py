@@ -71,8 +71,9 @@ def main():
             print(document.page_content)
 
 def parse_arguments():
-    parser = argparse.ArgumentParser(description='privateGPT: Ask questions to your documents without an internet connection, '
-                                                 'using the power of LLMs.')
+    parser = argparse.ArgumentParser(description='The Lumina System: a digital infrastructure created by Nova. It hosts the digital entity Kiran.
+'
+                                                 'Kiran learns to provide assistance over sources.')
     parser.add_argument("--hide-source", "-S", action='store_true',
                         help='Use this flag to disable printing of source documents used for answers.')
 
